@@ -50,7 +50,7 @@ Each algorithm generates a sequence of execution steps instead of directly updat
 Clone the repository:
 
 ```bash
-git clone https://github.com/aditya160206/algorithm-visualizer.git
+git clone https://github.com/Aryan-Sharmaaa/Algo_Visualizer
 ```
 
 Install dependencies:
